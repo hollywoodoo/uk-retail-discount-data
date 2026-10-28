@@ -1,6 +1,6 @@
 # UK Retail Discount Data 2026
 
-> Live statistics from BuySignal's tracking of 130,282+ UK deals across 22 retailers.
+> Live statistics from BuySignal's tracking of 130,446+ UK deals across 22 retailers.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Full Report](https://buysignal.deals/uk-retail-discount-report-2026)
 
@@ -10,47 +10,47 @@
 
 | Retailer | Avg Discount | Live Deals |
 |---|---|---|
-| SPORTS DIRECT | 50.7% | 7,127 |
-| THE NORTH FACE | 44.1% | 1,643 |
-| JD SPORTS | 43.6% | 4,574 |
-| BOOTS | 39.3% | 102 |
-| THE_PERFUME_SHOP | 39.2% | 269 |
-| ASOS_CLOTHING | 39.1% | 55,382 |
-| NEW BALANCE | 38.1% | 796 |
-| SCHUH | 37.7% | 2,897 |
-| FOOT LOCKER | 37.0% | 1,447 |
-| ALPINE TREK | 36.9% | 16,784 |
+| SPORTS DIRECT | 50.5% | 7,284 |
+| THE NORTH FACE | 44.2% | 1,623 |
+| JD SPORTS | 43.9% | 4,919 |
+| ASOS_CLOTHING | 38.8% | 52,270 |
+| THE_PERFUME_SHOP | 38.8% | 269 |
+| NEW BALANCE | 38.2% | 784 |
+| FOOT LOCKER | 37.6% | 1,758 |
+| SCHUH | 37.2% | 2,473 |
+| ALPINE TREK | 37.1% | 16,901 |
 | THE_FRAGRANCE_SHOP | 36.4% | 329 |
-| ADIDAS | 35.0% | 4,385 |
-| VERY | 34.5% | 21,758 |
-| ASOS_FOOTWEAR | 30.9% | 4,162 |
-| ALL_BEAUTY | 29.5% | 1,017 |
-| NIKE | 28.5% | 1,268 |
-| ESCENTUAL | 27.1% | 159 |
-| BOX | 26.1% | 861 |
-| ARGOS | 23.4% | 1,081 |
-| SCAN | 22.9% | 794 |
+| ADIDAS | 35.4% | 4,345 |
+| VERY | 33.4% | 24,505 |
+| BOOTS | 33.0% | 249 |
+| ASOS_FOOTWEAR | 30.7% | 4,054 |
+| ALL_BEAUTY | 29.4% | 994 |
+| NIKE | 28.5% | 1,273 |
+| ESCENTUAL | 27.0% | 156 |
+| BOX | 26.1% | 877 |
+| ARGOS | 23.5% | 1,036 |
+| SCAN | 23.1% | 772 |
 
 ### Average Discount by Category
 
 | Category | Avg Discount | Deals Tracked |
 |---|---|---|
-| Football Boots | 46.9% | 1,843 |
-| Basketball | 46.9% | 319 |
-| Swimwear | 46.1% | 3,742 |
-| Suits & Blazers | 44.2% | 1,398 |
-| Co-ords | 42.8% | 7,812 |
-| Beachwear | 42.6% | 159 |
-| Dresses & Skirts | 42.6% | 16,106 |
-| Sandals | 41.9% | 2,770 |
-| Kids Clothing | 40.5% | 236 |
-| Slippers | 40.4% | 793 |
-| Shorts | 40.3% | 5,496 |
-| Eau de Toilette | 39.9% | 451 |
+| Basketball | 47.0% | 323 |
+| Football Boots | 45.9% | 1,972 |
+| Swimwear | 45.8% | 3,686 |
+| Suits & Blazers | 43.6% | 1,356 |
+| Beachwear | 42.7% | 159 |
+| Dresses & Skirts | 42.5% | 14,799 |
+| Co-ords | 42.4% | 7,206 |
+| Sandals | 42.1% | 2,638 |
+| Shorts | 40.2% | 5,637 |
+| Slippers | 40.1% | 827 |
+| Playsuits & Jumpsuits | 39.7% | 677 |
+| Trousers & Chinos | 39.5% | 6,518 |
 
 ## Total Deals Tracked
 
-**130,282 live deals** across 22 UK retailers as of October 2026
+**130,446 live deals** across 22 UK retailers as of October 2026
 
 ## Data Updates
 
