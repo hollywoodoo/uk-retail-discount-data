@@ -1,6 +1,6 @@
 # UK Retail Discount Data 2026
 
-> Live statistics from BuySignal's tracking of 255,061+ UK deals across 28 retailers.
+> Live statistics from BuySignal's tracking of 255,090+ UK deals across 28 retailers.
 
 🌐 **Source:** [buysignal.deals](https://buysignal.deals) | [Full Report](https://buysignal.deals/uk-retail-discount-report-2026)
 
@@ -44,13 +44,13 @@
 | Maternity | 40.6% | 29 |
 | Suits & Blazers | 40.2% | 2,474 |
 | Dresses & Skirts | 40.1% | 29,234 |
-| Shorts | 39.6% | 7,969 |
+| Shorts | 39.6% | 7,968 |
 | Sandals | 39.3% | 4,009 |
 | Trainers | 37.9% | 21,634 |
 
 ## Total Deals Tracked
 
-**255,061 live deals** across 28 UK retailers as of November 2026
+**255,090 live deals** across 28 UK retailers as of November 2026
 
 ## Data Updates
 
